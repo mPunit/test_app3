@@ -1,24 +1,6 @@
-# README
+#Read me
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+App has one controller named "pages" whihc handle the home page and one get request for the abput page.
+app url -https://punitram-yadav-rails-proj.herokuapp.com/
+Home page lies at: '**/**'
+get request for about page lies at '**/about**'
